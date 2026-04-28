@@ -1,0 +1,36 @@
+ STRUCTURE:
+1.⁠ ⁠Introduction
+Importance of customer feedback
+Objective of analysis
+2.⁠ ⁠Problem Statement
+Identify satisfaction drivers
+Detect underperforming products
+3.⁠ ⁠Data Cleaning
+Handled missing values
+Removed duplicates
+Converted timestamps
+Created sentiment & review length features
+4.⁠ ⁠Exploratory Data Analysis
+Rating distribution shows majority positive reviews
+Product-level analysis reveals top and worst performers
+Verified users provide more consistent ratings
+Negative reviews are longer and more detailed
+5.⁠ ⁠Statistical Analysis
+Correlation between variables is weak
+T-test conducted on verified vs non-verified ratings
+Interpretation based on p-value
+6.⁠ ⁠Dashboard Overview
+Interactive Tableau dashboard
+Filters for product and sentiment
+Visual insights into customer behavior
+7.⁠ ⁠Key Insights
+Product quality issues drive negative sentiment
+Verified reviews are more reliable
+Customer dissatisfaction is concentrated in specific products
+8.⁠ ⁠Recommendations
+Improve low-rated products
+Address recurring negative feedback
+Focus on verified customer insights
+Enhance product descriptions
+9.⁠ ⁠Conclusion
+Data-driven insights can significantly improve customer satisfaction and product performance
