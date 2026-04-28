@@ -1,4 +1,4 @@
-# 📊 Customer Review Analysis
+#  Customer Review Analysis
 
 ##  Problem Statement
 Analyze product review data to identify key drivers of customer satisfaction and detect underperforming products using data-driven techniques.
@@ -77,11 +77,11 @@ review-analysis-project/
 ---
 
 ##  Team Contribution
-•⁠  ⁠Data Cleaning: [Your Name]
-•⁠  ⁠EDA: Member 1
-•⁠  ⁠Tableau Dashboard: Member 2
-•⁠  ⁠Statistical Analysis: Member 3
-•⁠  ⁠Documentation & Reporting: Member 4
+•⁠  ⁠Data Cleaning & ETL Pipeline: Yuvraj 
+•⁠  ⁠EDA: Jatin Bisen 
+•⁠  ⁠Tableau Dashboard: Onkar Dange
+•⁠  ⁠Statistical Analysis: Nihal C 
+•⁠  ⁠Documentation & Reporting: Yatin Bisht
 
 ---
 
